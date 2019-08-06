@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 616 394" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/advance-master</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title>images/advance-master</title>
+ <desc>Created with Sketch.</desc>
+ <g fill="none" fill-rule="evenodd">
+  <g fill="#8F8981" fill-rule="nonzero">
+   <path id="Line" d="m267 213h50v1h-50v4l-9-4.5 9-4.5v4z"/>
+   <path d="m410.72 227.71 52.411 17.47-.31623.94868-52.411-17.47-1.2649 3.7947-7.1151-7.1151 9.9612-1.423-1.2649 3.7947z"/>
+   <path d="m411.34 198.18 51.463-18.317.33532.9421-51.463 18.317 1.3413 3.7684-9.9879-1.2215 6.97-7.2574 1.3413 3.7684z"/>
+   <path d="m122 213h50v1h-50v4l-9-4.5 9-4.5v4z"/>
+  </g>
+  <g id="other" transform="translate(317 197)">
+   <rect width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text id="master" fill="#000000" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" stroke="#979797"><tspan x="24.9941406" y="21">f30ab</tspan></text>
+  </g>
+  <g transform="translate(172 197)">
+   <rect width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text fill="#000000" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" stroke="#979797"><tspan x="24.9970703" y="21">34ac2</tspan></text>
+  </g>
+  <g transform="translate(27 197)">
+   <rect width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text fill="#000000" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" stroke="#979797"><tspan x="24.9970703" y="21">98ca9</tspan></text>
+  </g>
+  <g transform="translate(462 230)">
+   <rect width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text fill="#000000" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" stroke="#979797"><tspan x="24.9970703" y="21">87ab2</tspan></text>
+  </g>
+  <g transform="translate(462 164)">
+   <rect width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
+   <text fill="#000000" font-family="RobotoMono-Regular, Roboto Mono" font-size="12" stroke="#979797"><tspan x="24.9970703" y="21">c2b9e</tspan></text>
+  </g>
+  <path d="m506 272v30h-1v-30h-4l4.5-9 4.5 9h-4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g transform="translate(462 292)">
+   <rect width="85.204" height="33" fill="#F44D27"/>
+   <text fill="#FFFFFF" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.143" stroke="#979797"><tspan x="18.9503581" y="20">testing</tspan></text>
+  </g>
+  <path d="m505 155v-29h1v29h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g id="ref" transform="translate(462 103)">
+   <rect width="85.204" height="33" fill="#F44D27"/>
+   <text fill="#FFFFFF" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.143" stroke="#979797"><tspan x="22.2937593" y="20">master</tspan></text>
+  </g>
+  <path d="m506 94v-34h1v34h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
+  <g transform="translate(462 42)">
+   <rect width="86" height="33" fill="#CD9F00"/>
+   <text fill="#FFFFFF" font-family="RobotoMono-Regular, Roboto Mono" font-size="11.143" stroke="#979797"><tspan x="29.3763951" y="20">HEAD</tspan></text>
+  </g>
+ </g>
+</svg>
