@@ -5,11 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg70"
-   version="1.1"
-   viewBox="0 0 616 394"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="616px"
    height="394px"
-   width="616px">
+   viewBox="0 0 616 394"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="advance-master.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -24,6 +28,23 @@
   </metadata>
   <defs
      id="defs74" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="1.3972081"
+     inkscape:cx="316.12081"
+     inkscape:cy="271.60169"
+     inkscape:current-layer="svg70" />
   <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
   <title
      id="title2">images/advance-master</title>
@@ -32,215 +53,222 @@
   <g
      id="g5575">
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line"
        d="m 267,213 h 50 v 1 h -50 v 4 l -9,-4.5 9,-4.5 z"
-       id="Line" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-3"
        d="m 410.72192,227.71359 52.41054,17.47018 -0.31623,0.94869 -52.41054,-17.47018 -1.26491,3.79473 -7.11512,-7.11512 9.96117,-1.42303 z"
-       id="Line-3" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-4"
        d="m 411.34021,198.17869 51.46318,-18.3174 0.33532,0.9421 -51.46317,18.3174 1.34129,3.76841 -9.98788,-1.22154 6.96996,-7.25738 z"
-       id="Line-4" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-2"
        d="m 122,213 h 50 v 1 h -50 v 4 l -9,-4.5 9,-4.5 z"
-       id="Line-2" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="other"
        transform="translate(317,197)"
-       id="other">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#efefe7;fill-rule:evenodd"
-         height="33"
-         width="86"
-         y="0"
+         id="Rectangle-2"
          x="0"
-         id="Rectangle-2" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#efefe7;fill-rule:evenodd" />
       <text
-         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="master"
          font-size="12"
-         id="master">
+         font-weight="normal"
+         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan11"
-           y="21"
+           style="stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1"
            x="24.994141"
-           style="stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1">f30ab</tspan>
+           y="21"
+           id="tspan11">f30ab</tspan>
       </text>
     </g>
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g21"
        transform="translate(172,197)"
-       id="g21">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#efefe7;fill-rule:evenodd"
-         height="33"
-         width="86"
-         y="0"
+         id="rect15"
          x="0"
-         id="rect15" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#efefe7;fill-rule:evenodd" />
       <text
-         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#979797;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-         font-weight="normal"
+         id="text19"
          font-size="12"
-         id="text19">
+         font-weight="normal"
+         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#979797;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1">
         <tspan
-           id="tspan17"
-           y="21"
+           style="stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill:#979797;fill-opacity:1;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
            x="24.99707"
-           style="stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill:#979797;fill-opacity:1;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">34ac2</tspan>
+           y="21"
+           id="tspan17">34ac2</tspan>
       </text>
     </g>
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g29"
        transform="translate(27,197)"
-       id="g29">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#efefe7;fill-rule:evenodd"
-         height="33"
-         width="86"
-         y="0"
+         id="rect23"
          x="0"
-         id="rect23" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#efefe7;fill-rule:evenodd" />
       <text
-         style="font-weight:bold;font-size:12px;font-family:'Roboto Mono';fill:#979797;stroke:#979797;stroke-width:0.4;-inkscape-font-specification:'Roboto Mono, Bold';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="text27"
          font-size="12"
-         id="text27">
+         font-weight="normal"
+         style="font-weight:bold;font-size:12px;font-family:'Roboto Mono';fill:#979797;stroke:#979797;stroke-width:0.4;-inkscape-font-specification:'Roboto Mono, Bold';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan25"
-           y="21"
+           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
            x="24.99707"
-           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">98ca9</tspan>
+           y="21"
+           id="tspan25">98ca9</tspan>
       </text>
     </g>
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g37"
        transform="translate(462,230)"
-       id="g37">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#efefe7;fill-rule:evenodd"
-         height="33"
-         width="86"
-         y="0"
+         id="rect31"
          x="0"
-         id="rect31" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#efefe7;fill-rule:evenodd" />
       <text
-         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="text35"
          font-size="12"
-         id="text35">
+         font-weight="normal"
+         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan33"
-           y="21"
+           style="fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
            x="24.99707"
-           style="fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">87ab2</tspan>
+           y="21"
+           id="tspan33">87ab2</tspan>
       </text>
     </g>
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g45"
        transform="translate(462,164)"
-       id="g45">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#efefe7;fill-rule:evenodd"
-         height="33"
-         width="86"
-         y="0"
+         id="rect39"
          x="0"
-         id="rect39" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#efefe7;fill-rule:evenodd" />
       <text
-         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="text43"
          font-size="12"
-         id="text43">
+         font-weight="normal"
+         style="font-weight:normal;font-size:12px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#000000;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan41"
-           y="21"
+           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
            x="24.99707"
-           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">c2b9e</tspan>
+           y="21"
+           id="tspan41">c2b9e</tspan>
       </text>
     </g>
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-8"
        d="m 506,272 v 30 h -1 v -30 h -4 l 4.5,-9 4.5,9 z"
-       id="Line-8" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="ref-2"
        transform="translate(462,292)"
-       id="ref-2">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#f44d27"
-         height="33"
-         width="85.203705"
-         y="0"
+         id="rect48"
          x="0"
-         id="rect48" />
+         y="0"
+         width="85.203705"
+         height="33"
+         style="fill:#f44d27" />
       <text
-         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="text52"
          font-size="11.1428571"
-         id="text52">
+         font-weight="normal"
+         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan50"
-           y="20"
+           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
            x="18.950357"
-           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">testing</tspan>
+           y="20"
+           id="tspan50">testing</tspan>
       </text>
     </g>
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-7"
        d="m 505,155 v -29 h 1 v 29 h 4 l -4.5,9 -4.5,-9 z"
-       id="Line-7" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="ref"
        transform="translate(462,103)"
-       id="ref">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#f44d27"
-         height="33"
-         width="85.203705"
-         y="0"
+         id="rect56"
          x="0"
-         id="rect56" />
+         y="0"
+         width="85.203705"
+         height="33"
+         style="fill:#f44d27" />
       <text
-         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="text60"
          font-size="11.1428571"
-         id="text60">
+         font-weight="normal"
+         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan58"
-           y="20"
+           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill:#979797;fill-opacity:1"
            x="22.293758"
-           style="-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;fill:#979797;fill-opacity:1">master</tspan>
+           y="20"
+           id="tspan58">master</tspan>
       </text>
     </g>
     <path
-       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1"
+       id="Line-11"
        d="M 506,94 V 60 h 1 v 34 h 4 l -4.5,9 -4.5,-9 z"
-       id="Line-11" />
+       inkscape:connector-curvature="0"
+       style="fill:#8f8981;fill-rule:nonzero;stroke:none;stroke-width:1" />
     <g
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="goldref-3"
        transform="translate(462,42)"
-       id="goldref-3">
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <rect
-         style="fill:#cd9f00"
-         height="33"
-         width="86"
-         y="0"
+         id="Rectangle-3"
          x="0"
-         id="Rectangle-3" />
+         y="0"
+         width="86"
+         height="33"
+         style="fill:#cd9f00" />
       <text
-         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-         font-weight="normal"
+         id="master-2"
          font-size="11.1428571"
-         id="master-2">
+         font-weight="normal"
+         style="font-weight:normal;font-size:11.14285755px;font-family:RobotoMono-Regular, 'Roboto Mono';fill:#ffffff;stroke:#979797;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">
         <tspan
-           id="tspan65"
-           y="20"
+           style="fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
            x="29.376394"
-           style="fill:#979797;fill-opacity:1;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Roboto Mono, Bold';font-family:'Roboto Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.14279938px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">HEAD</tspan>
+           y="20"
+           id="tspan65">HEAD</tspan>
       </text>
     </g>
   </g>
