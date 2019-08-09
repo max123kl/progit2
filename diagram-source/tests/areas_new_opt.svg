@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 401 221" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>images/areas</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+ <title>images/areas</title>
+ <desc>Created with Sketch.</desc>
+ <path id="Line" d="m59.5 26.411v184.08" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+ <path d="m339.5 26.411v184.08" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+ <path d="m199.5 26.411v184.08" style="fill-rule:evenodd;fill:#8f8981;stroke-linecap:square;stroke:#8f8981"/>
+ <rect transform="translate(3.4716 4)" width="110.58" height="38" style="fill-rule:evenodd;fill:#f44d27"/>
+ <text id="master" transform="translate(3.2173 4.4608)" font-size="12px" font-weight="900" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:900;stroke-width:0;text-anchor:middle"><tspan x="55.290054" y="15.53125">Working</tspan> <tspan x="55.290054" y="28.53125">Directory</tspan></text>
+ <rect transform="translate(144.21 4)" width="110.58" height="38" style="fill-rule:evenodd;fill:#00909a"/>
+ <text transform="translate(144.09 6.048)" font-size="12px" font-weight="900" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:900;stroke-width:0;text-anchor:middle"><tspan x="55.290054" y="15">Staging</tspan> <tspan x="55.290054" y="28">Area</tspan></text>
+ <rect transform="translate(284.95 4)" x=".5" y=".5" width="109.58" height="37" style="fill-rule:evenodd;fill:#efefe7;stroke:#979797"/>
+ <text transform="translate(284.56 3.4608)" font-size="12px" font-weight="900" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:900;stroke-width:0;text-anchor:middle"><tspan x="54.790054" y="16.03125">.git directory</tspan> <tspan x="54.790054" y="30.03125">(Repository)</tspan></text>
+ <path d="m128.5 75.5h211.5v13h-211.5v28l-69-34.5 69-34.5z" style="fill:#8f8981"/>
+ <text id="Checkout-the-project" transform="translate(0 -.508)" font-size="11.143" style="fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900;stroke-width:0"><tspan x="139.63197" y="86" style="fill:white;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900;stroke-width:0">Checkout the project</tspan></text>
+ <path d="m131.5 140.5h-71.502v-13h71.502v-28l69 34.5-69 34.5z" style="fill:#8f8981"/>
+ <text id="Stage-Fixes" transform="translate(0 -.616)" font-size="11.143" style="fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900;stroke-width:0"><tspan x="70.722588" y="138" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900;stroke-width:0">Stage Fixes</tspan></text>
+ <path d="m271 186.5h-71v-13h71v-28l69 34.5-69 34.5z" style="fill:#8f8981"/>
+ <text id="Commit" transform="translate(0 -.78592)" font-size="11.143" style="fill-rule:evenodd;fill:white;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900"><tspan x="221.93959" y="184.16992" style="font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:900">Commit</tspan></text>
+</svg>
